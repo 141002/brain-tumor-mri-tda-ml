@@ -19,8 +19,7 @@ The original experiment contains:
 - **1,500 non-tumor MRI images**
 - **3,000 images total**
 
-The dataset is intentionally not included in this repository. See
-[`data/README.md`](data/README.md).
+The dataset is in the google drive, here is the link: https://drive.google.com/drive/folders/17qlAb3d7I9ZOcyvO7KnpJTV621FGjAub?usp=sharing
 
 ## Methodology
 
