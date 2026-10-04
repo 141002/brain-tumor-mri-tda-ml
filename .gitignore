@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/yes/
+data/no/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.nii
+*.nii.gz
+
+# Generated model/data files
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets / local config
+.env
